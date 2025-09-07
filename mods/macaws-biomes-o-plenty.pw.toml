@@ -1,0 +1,13 @@
+name = "Macaw's Biomes O' Plenty"
+filename = "mcwbiomesoplenty-fabric-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdb9726983ddad98c260793e899b920448212000"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6400779
+project-id = 533382

@@ -1,0 +1,13 @@
+name = "Packed Up (Backpacks)"
+filename = "packedup-1.1.0-fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2c5df01c7c99d08e9eb2e1ccd41400cbb90c132"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6091470
+project-id = 361867

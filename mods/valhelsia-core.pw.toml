@@ -1,0 +1,13 @@
+name = "Valhelsia Core"
+filename = "valhelsia_core-fabric-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37d7327935c42b6fb0fe86a186b377de5461f3a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5376599
+project-id = 416935

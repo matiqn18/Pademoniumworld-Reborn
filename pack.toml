@@ -1,0 +1,13 @@
+name = "Pandemonium Craft Reborn"
+author = "Matian"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "828c5323a838148d64565146a702f91ccea3497449e6c3853c175821edf48684"
+
+[versions]
+fabric = "0.17.0"
+minecraft = "1.20.1"

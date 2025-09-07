@@ -1,0 +1,13 @@
+name = "DisenchantingFabric"
+filename = "disenchantingfabric-1.20.1-2.2.4a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b118d18c9efd23cf836ccdeae16854e33a97ddc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4682228
+project-id = 898495
