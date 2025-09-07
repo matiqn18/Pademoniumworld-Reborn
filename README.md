@@ -1,2 +1,127 @@
 # Pademoniumworld-Reborn
 Blueprint for my minecraft modpack
+ 
+
+## Current Mods
+- [Let's Do] API
+- [Let's Do] Vinery
+- AddonsLib
+- Animal Feeding Trough [Fabric | Forge | Quilt | NeoForge]
+- Animation Overhaul
+- AppleSkin
+- Architectury API
+- Artifacts
+- Athena
+- Balm (Fabric Edition)
+- BCLib
+- Better Advancements
+- Better Combat [Fabric & Forge]
+- BetterEnd
+- BetterNether
+- Biomes O' Plenty
+- Bookshelf
+- Botarium
+- Brutal Bosses - Custom Bosses[Forge/Fabric]
+- Carry On
+- Chat Heads
+- Chipped
+- ChoiceTheorem's Overhauled Village
+- Cloth Config API (Fabric/Forge/NeoForge)
+- Clumps
+- Cobweb
+- Collective
+- CraftTweaker
+- Create Crafts & Additions
+- Create Fabric
+- Create Slice & Dice
+- Create: Bells & Whistles
+- Create: New Age
+- Create: Steam 'n' Rails
+- Croptopia
+- Croptopia Delight
+- Cupboard
+- Deeper and Darker
+- DisenchantingFabric
+- Double Doors
+- Dungeons and Taverns
+- Dynamic FPS
+- Enchantment Descriptions
+- EpheroLib
+- Expanded Delight
+- Explorify – Dungeons & Structures
+- Fabric API
+- Fabric Language Kotlin
+- FakerLib
+- FallingTree
+- FancyMenu
+- Farmer's Delight Refabricated
+- Faux Custom Entity Data
+- Forge Config API Port
+- Framework
+- Friends&Foes (Fabric/Quilt)
+- GeckoLib
+- GlitchCore
+- Harvest with ease
+- Illager Warship
+- Immersive Paintings [Fabric/Forge]
+- Indium
+- Industrial Revolution
+- Jade 🔍
+- JamLib
+- JEITweaker
+- Just Enough Items (JEI)
+- Konkrete [Fabric]
+- Legacy: [Let's Do] Brewery
+- Lithostitched
+- Living Things
+- Macaw's Biomes O' Plenty
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Furniture
+- Macaw's Holidays
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Roofs
+- Macaw's Stairs
+- Macaw's Windows
+- Melody
+- MNS - Moog's Nether Structures
+- Mouse Tweaks
+- MrCrayfish's Furniture Mod: Refurbished
+- MVS - Moog's Voyager Structures
+- Naturalist Lite
+- Necronomicon API
+- Not Enough Animations
+- Ocean's Delight
+- oωo (owo-lib)
+- Packed Up (Backpacks)
+- Patchouli (Fabric/Quilt)
+- Platform
+- playerAnimator
+- Reboot LovelyRobot
+- Resourceful Lib
+- RightClickHarvest
+- ServerCore
+- Simply Light
+- Sodium
+- Storage Drawers
+- Structory
+- Structure Essentials[Forge/Fabric]
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- TerraBlender (Fabric)
+- Terralith
+- Tree Harvester
+- Trinkets (Fabric)
+- Valhelsia Core
+- Valhelsia Furniture
+- Vanilla Backport: Chase the Skies, The Garden Awakens
+- Variants&Ventures
+- Waystones
+- Xaero's Minimap
+- Xaero's World Map
+- YDM's MobHealthBar
+- You're in Grave Danger
+- Zenith
+- Zenith Attributes
